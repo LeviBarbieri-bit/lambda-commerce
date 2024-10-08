@@ -9,7 +9,7 @@ import { EventsDdbStack } from '../lib/eventsDdb-stack'
 const app = new cdk.App();
 
 const env: cdk.Environment = {
-  account: "946835467386",
+  account: "973761477404",
   region: "us-east-1"
 }
 
