@@ -17,7 +17,7 @@ const env: cdk.Environment = {
 
 const tags = {
   cost: "ECommerce",
-  team: "SiecolaCode"
+  team: "levi"
 }
 
 const productsAppLayersStack = new ProductsAppLayersStack(app, "ProductsAppLayers", {
